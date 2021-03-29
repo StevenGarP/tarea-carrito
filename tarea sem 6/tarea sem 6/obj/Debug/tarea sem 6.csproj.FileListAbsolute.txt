@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\bin\Debug\tarea sem 6.exe.config
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\bin\Debug\tarea sem 6.exe
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\bin\Debug\tarea sem 6.pdb
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea sem 6.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea_sem_6.Form1.resources
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea_sem_6.Properties.Resources.resources
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea sem 6.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea sem 6.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea sem 6.exe
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea sem 6.pdb
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\tarea sem 6\tarea sem 6\obj\Debug\tarea sem 6.csproj.ResolveComReference.cache
